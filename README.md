@@ -1,5 +1,5 @@
 # Tgbot
-2nd version of telegram bot for gifts
+3rd version of Telegram-bot for gifts
 
 Добавлено в ветку master
 
@@ -11,3 +11,4 @@ sqlalchemy
 asyncpg
 telethon
 alembic
+APScheduler
